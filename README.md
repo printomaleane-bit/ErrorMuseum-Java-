@@ -2,9 +2,8 @@
 
 A console-based Core Java application that allows users to record, manage, and analyze personal mistakes.
 
----
 
-## 🚀 Features
+## Features
 
 - Add new errors
 - View all stored errors
@@ -12,16 +11,13 @@ A console-based Core Java application that allows users to record, manage, and a
 - Delete resolved errors
 - File persistence using `errors.txt`
 
----
-
-## 🧠 Why This Project?
+##  Why This Project?
 
 Many people repeat the same mistakes without identifying patterns.  
 This project provides a structured way to track errors and reflect on recurring categories to encourage self-improvement.
 
----
 
-## 🛠 Concepts Used
+## Concepts Used
 
 - Object-Oriented Programming (OOP)
 - Classes & Objects
@@ -30,9 +26,7 @@ This project provides a structured way to track errors and reflect on recurring 
 - Exception Handling
 - Menu-driven architecture
 
----
-
-## ▶️ How to Run
+## How to Run
 
 ### Compile
 
