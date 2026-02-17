@@ -19,4 +19,13 @@ A console-based Core Java application that allows users to record, manage, and a
 
 ## How to Run
 
-Compile:
+### Compile
+```bash
+javac Main.java
+
+
+
+## Technologies
+- Core Java
+- File Handling
+- Collections Framework
